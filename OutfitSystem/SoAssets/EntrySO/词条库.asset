@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a7df2e87991da54d995b125e608ba36, type: 3}
+  m_Name: "\u8BCD\u6761\u5E93"
+  m_EditorClassIdentifier: 
+  entryPool:
+  - name: "\u51F6\u956C"
+    discription: "\u5200\u4FCE\u52A0\u8EAB\uFF0C\u8BF7\u541B\u5165\u74EE\uFF01"
+    onEventAdd:
+      m_PersistentCalls:
+        m_Calls: []
+    onEventRemove:
+      m_PersistentCalls:
+        m_Calls: []
+  - name: "\u6CBB\u6108"
+    discription: "\u543E\u4EE5\u6B64\u8EAB\u4E3A\u836F\uFF0C\u6B32\u533B\u5929\u4E0B\u4E4B\u75BE\uFF01"
+    onEventAdd:
+      m_PersistentCalls:
+        m_Calls: []
+    onEventRemove:
+      m_PersistentCalls:
+        m_Calls: []
